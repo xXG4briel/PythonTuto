@@ -5,6 +5,7 @@ assuntos = [
     'saida/entrada de dados',
     'operadores aritméticos',
     'operadores condicionais',
+    'manipulação de strings',
     'bibliotecas',
     'condicionais',
     'condicionais aninhadas',

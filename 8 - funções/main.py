@@ -40,3 +40,10 @@ def kwargs(**kwargs):
         # kwargs(nome="Gabriel")
         print(f"Olá {nome} !")
 
+
+def docsString():
+    # docsString são usadas para documentar algo ...
+    '''
+    Essa é uma função que  faz exatamente nada :)
+    '''
+    docsString()
